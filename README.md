@@ -1,5 +1,5 @@
-# Tugas-wp2-
-Anggota kelompok 
-Rizal Setiawan 17190046 
-Edwin Rismaulana 17190003 
-Rizal Ramli 17190071
+1. 17190017 Randy Rizkika Putra
+2. 17190032 Khanaya adjie 
+3. 17190099 rudiana
+4. 17190057 Dhimas nanda
+5. 17190033 Abdul Latif
