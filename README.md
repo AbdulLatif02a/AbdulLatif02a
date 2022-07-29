@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AbdulLatif02a
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AbdulLatif02a/AbdulLatif02a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. 17190017 Randy Rizkika Putra
+2. 17190032 Khanaya adjie 
+3. 17190099 rudiana
+4. 17190057 Dhimas nanda
+5. 17190033 Abdul Latift
